@@ -1,0 +1,13 @@
+.UseCasediv {
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid;
+}
+.button1 {
+  background-color: red;
+}
+.button2 {
+  background-color: blue;
+}
